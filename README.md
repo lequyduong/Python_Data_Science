@@ -1,5 +1,5 @@
 # Python_Data_Science
-This is a series of code on using matplotlib and other library 
+This is a serie of codes using matplotlib and other library 
 to investigate existing data of population and wheather of 
 Belgium: 
 
@@ -12,7 +12,7 @@ Here, you will find 3 distinct files:
 
 ## TemperatureLeuven.ipynb Temperature in Leuven, Belgium by years
   
-All the code can be run independently with python and Jupyter notebook
+All the codes can be launched independently with python and Jupyter notebook
 
 #####
 
